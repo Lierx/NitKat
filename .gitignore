@@ -1,2 +1,3 @@
 #ignorar las imágenes
-img
+/img
+*.gif
