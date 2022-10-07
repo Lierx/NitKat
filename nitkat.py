@@ -6,7 +6,6 @@ import requests
 from urllib.request import urlopen
 from colorama import init, Fore,  Back,  Style
 import time
-from speedtest import Speedtest
 
 
 def cls():
